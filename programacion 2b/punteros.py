@@ -1,4 +1,5 @@
-#DEFINICION DE PUNTERO: apunta a una direccion en memoria la cual puede tener o no informacion 
+#--------------------PUNTEROS (clase 1)
+#DEFINICION apunta a una direccion en memoria la cual puede tener o no informacion 
 alumno = "Juan Gomez"
 edad = 21
 #tipo de dato
