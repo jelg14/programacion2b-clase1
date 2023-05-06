@@ -59,3 +59,5 @@ lista.agregarFinal(200)
 lista.agregarInicio(300)
 lista.printList()
 
+#-------------------LISTAS DOBLEMENTE ENLAZADAS----------------
+
