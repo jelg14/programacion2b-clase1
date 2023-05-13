@@ -34,5 +34,14 @@ class DogleLinked():
                 return tempo_node
             tempo_node = tempo_node.next
         return None
+    
+    def imprimir_inverso (self) -> str:
+        result = ""
+        tempo_node = self.end
+        while tempo_node != None:
+            result += tempo_node.data +" , "
+            tempo_node = tempo_node.prev
+        return result
+        
         
         
