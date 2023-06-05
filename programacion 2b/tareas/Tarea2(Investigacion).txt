@@ -1,0 +1,15 @@
+Estructuras de datos:
+Hace referencia a la forma en que se almacenan y organizar informacion para su posterior manipulacion, como puede ser por medio de busqueda, insersion, modificacion, entre otros.
+Para la manipulacion de datos, se utiliza en conjunto algoritmos que permiten resolver problemas dentro de la programacion con operaciones complejas, estos algoritmos son independientes del lenguaje de programacion, por lo que pueden ser implementados en cualquier apliación.
+
+Arboles Binarios:
+Es una estructura de datos que consiste en nodos conectados por lineas, cada nodo se compone de un maximo de tres datos, un dato inicial y uno o dos hijos ubicados a la izquierda y/o derecha dependiendo del tipo de arbol o la cantidad de hijos que posea (maximo 2), para la implementacion de estos arboles, se da uso de operaciones como la insercion, busqueda o eliminacion de nodos asi como el recorrido completo del arbol.
+
+Sistema gestor de base de datos (DBMS):
+Aplicacion que se utiliza para administrar y manimular la informacion almacenada en una base de datos mediante una interfaza que permite realizar operaciones como lectura, creacion, eliminacion y actualizacion de datos a traves de comandos (script) dentro del sistema. Estos son de importancia para administrar grandes cantidades de datos por medio de tareas de gestion, garantizando integridad y seguridad de la informacion almacenada.
+
+Sistema gestor de base de datos relacionales(RDMS)
+aplicacion de gestion para almacenar estructuras de tabla basadas en filas que conecta elementos de datos relacionados permitiendo crear, modificar y administrar bases de datos relacionales incluyento funciones de seguridad e integridad de los datos. Utilizado con mas frecuencia en software de contabilidad y en empresas de banca, telecomunicaciones, finanzas y seguros. Esto debido a que los utilizan para reunir toda su gestión de sistemas con el fin de integrar a todas las sucursales de la empresa 
+
+NoSQL:
+Base de datos no relacional, diferenciando de otros tipos de bases de datos en su estructura, dado a que no utlizan sql como lenguaje principal, haciendo que sean mas flexibles en cuanto a su estructura y modelo de datos, Son utilizadas principalmente para manejar grandes conjuntos de datos y que puedan manejar estos al dividir la carga de trabajo en multiples servidores, En una DB NoSQL los datos se almacenan en formatos no relacionales, por lo que se evita el tener que conectar tablas permitiendo la flexibilidad antes mencionada.

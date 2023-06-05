@@ -18,6 +18,7 @@ def metodoBurbuja():
     print ("La lista ordenada es: ",lista2)
 lista = list(range(100))
 vector = sample(lista, 8)
+
 #recursividad
 def QuickSort(vector, start= 0, end=len(vector)-1):
     print("lista a ordenar:",lista)
@@ -48,7 +49,7 @@ def QuickSort(vector, start= 0, end=len(vector)-1):
     quick(vector)
     print("vector ordenado con quick: ", vector)
 
-QuickSort(vector)
-print("QuickSort: ", vector)
-#metodoBurbuja()
+#QuickSort(vector)
+#print("QuickSort: ", vector)
+metodoBurbuja()
                 
