@@ -126,7 +126,7 @@ class ListaDoblementeEnlazada:
             print("#",dato.dato, end='\n')
             dato = dato.siguiente
 
-# Ejemplo de uso:
+
 lista = ListaDoblementeEnlazada()
 lista.insertar_al_principio(10)
 lista.insertar_al_final(5)
@@ -136,8 +136,6 @@ lista.insertar_en_segunda_posicion(15)
 print("LISTA COMPLETA:")
 lista.printList()
 
-
-# Eliminar el nodo con mayor información
 mayor_informacion = lista.eliminar_nodo_mayor_info()
 print("Nodo con mayor información eliminado:", mayor_informacion)
 lista.printList()
